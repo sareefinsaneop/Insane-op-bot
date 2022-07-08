@@ -200,7 +200,7 @@ TIGERS = list(TIGERS)
 loop = asyncio.get_event_loop()
 boot = time.time()
 
-mongo = MongoClient(AFK_DB_URI)
+mongo = MongoClient(MONGO_DB_URI)
 db = mongo.AFK
 
 botid = 0
