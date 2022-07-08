@@ -3,7 +3,8 @@ import os
 import sys
 import time
 
-import telegram.ext as tg
+import telegram.ext as tg 
+from motor.motor_asyncio import AsyncIOMotorClient as MongoClient
 from aiohttp import ClientSession
 from Python_ARQ import ARQ
 from pyrogram import Client, errors
@@ -182,6 +183,7 @@ updater = tg.Updater(TOKEN, workers=WORKERS, use_context=True)
 telethn = TelegramClient("Fallen", API_ID, API_HASH)
 
 pbot = Client("FallenRobot", api_id=API_ID, api_hash=API_HASH, bot_token=TOKEN)
+aapp = Client("Afk_bot", api_id=API_ID, api_hash=API_HASH, bot_token=TOKEN)
 dispatcher = updater.dispatcher
 aiohttpsession = ClientSession()
 
@@ -194,6 +196,29 @@ DEV_USERS = list(DEV_USERS)
 WOLVES = list(WOLVES)
 DEMONS = list(DEMONS)
 TIGERS = list(TIGERS)
+
+loop = asyncio.get_event_loop()
+boot = time.time()
+
+mongo = MongoClient(AFK_DB_URI)
+db = mongo.AFK
+
+botid = 0
+botname = ""
+botusername = ""
+
+async def initiate_bot():
+    global botid, botname, botusername
+    await aapp.start()
+    getme = await aapp.get_me()
+    botid = getme.id
+    botusername = getme.username
+    if getme.last_name:
+        botname = getme.first_name + " " + getme.last_name
+    else:
+        botname = getme.first_name
+
+loop.run_until_complete(initiate_bot())
 
 # Load at end to ensure all prev variables have been set
 from FallenRobot.modules.helper_funcs.handlers import (
