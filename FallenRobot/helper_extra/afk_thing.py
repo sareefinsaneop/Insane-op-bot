@@ -1,4 +1,4 @@
-from FallenRobot import db
+from FallenRobot.helper_extra.dbfun import db
 
 chatsdb = db.chatsdb
 usersdb = db.users
