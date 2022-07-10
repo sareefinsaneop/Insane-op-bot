@@ -1,4 +1,4 @@
-import importlib
+importlib
 import time
 import re
 from sys import argv
@@ -82,7 +82,7 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="✗ ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ​ ✗",
+            text="✗ ᴡᴀɴɴᴀ ᴀᴅᴅ ᴍᴇ ʙᴀʙᴇ​ ✗",
             url=f"https://t.me/{dispatcher.bot.username}?startgroup=true",
         ),
     ],
@@ -90,13 +90,13 @@ buttons = [
         InlineKeyboardButton(text="🧐 ʜᴇʟᴘ & ᴄᴍᴅs​​​ 🧐", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="💞 ᴀʙᴏᴜᴛ ᴍᴇ​​ 💞", callback_data="fallen_"),
-        InlineKeyboardButton(text="🙄 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 🙄", callback_data="source_"),
+        InlineKeyboardButton(text="👀 A̸B̸O̸U̸T̸ M̸E̸ ​​ 👀", callback_data="fallen_"),
+        InlineKeyboardButton(text="🙊 S̸O̸U̸R̸C̸E̸ C̸O̸D̸E̸ 🙊", callback_data="source_"),
     ],
     [
-        InlineKeyboardButton(text="💔 sᴜᴘᴘᴏʀᴛ 💔", url=f"https://t.me/{SUPPORT_CHAT}"),
+        InlineKeyboardButton(text="👥 S̸U̸P̸P̸O̸R̸T̸ 👥", url=f"https://t.me/{SUPPORT_CHAT}"),
         InlineKeyboardButton(
-            text="🍑 ᴅᴇᴠᴇʟᴏᴘᴇʀ 🍑", url=f"https://t.me/{OWNER_USERNAME}"
+            text="🥵𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥🥵 ", url=f"https://t.me/{OWNER_USERNAME}"
         ),
     ],
 ]
