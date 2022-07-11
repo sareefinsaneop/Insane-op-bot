@@ -63,11 +63,11 @@ sᴜᴄᴄᴇssғᴜʟʟʏ ᴡʀɪᴛᴛᴇɴ ᴛᴇxᴛ 💘
         )
 
 
-__mod_name__ = "WʀɪᴛᴇTᴏᴏʟ"
+__mod_name__ = "ᴡʀɪᴛᴇ ᴛᴏᴏʟ✍︎"
 
 __help__ = """
 
  Writes the given text on white page with a pen 🖊
 
 ❍ /write <text> *:* Writes the given text.
- """
+     ❤️‍🔥[Ⓢ︎](https://t.me/ab_sumit)"""
