@@ -379,7 +379,7 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                         ),
                         InlineKeyboardButton(
                             text="sᴏᴜʀᴄᴇ",
-                            url="https://github.com/AnonymousR1025/FallenRobot",
+                            url="https://github.com/issu-op/FallenRobot",
                         ),
                     ],
                     [
@@ -412,7 +412,7 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                         ),
                     ],
                     [
-                        InlineKeyboardButton(text="◁", callback_data="fallen_"),
+                        InlineKeyboardButton(text="←_←", callback_data="fallen_"),
                     ],
                 ]
             ),
@@ -509,7 +509,7 @@ def get_help(update: Update, context: CallbackContext):
             chat.id,
             text,
             InlineKeyboardMarkup(
-                [[InlineKeyboardButton(text="◁", callback_data="help_back")]]
+                [[InlineKeyboardButton(text="←_←", callback_data="help_back")]]
             ),
         )
 
@@ -582,7 +582,7 @@ def settings_button(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                text="◁",
+                                text="←_←",
                                 callback_data="stngs_back({})".format(chat_id),
                             )
                         ]
@@ -733,9 +733,9 @@ def main():
     if SUPPORT_CHAT is not None and isinstance(SUPPORT_CHAT, str):
         try:
             dispatcher.bot.send_photo(
-                f"@{SUPPORT_CHAT}",
-                "https://telegra.ph/file/36be820a8775f0bfc773e.jpg",
-                caption="ғᴀʟʟᴇɴ ✘ ʀᴏʙᴏᴛ ɪs ᴀʟɪᴠᴇ !\n\nᴍᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ ᴀɴᴏɴʏᴍᴏᴜs 🥀",
+                f"@ab_sumit",
+                "https://telegra.ph/file/fd6462fefbb3470e0a328.mp4",
+                caption=" 𝗕𝗘𝗟𝗟𝗬 ✘ 𝗥𝗢𝗕𝗢𝗧 ,ɪ ᴀᴍ ᴀʟɪᴠᴇ ᴍʏ ʙᴀʙᴇ ᴅᴏ'ɴᴏᴛ ᴡᴏʀʀʏ !\n\ᴍʏ ғᴏᴜɴᴅᴇʀ 🥵 𝗦𝗨𝗠𝗜𝗧 ❤️‍🔥",
             )
         except Unauthorized:
             LOGGER.warning(
