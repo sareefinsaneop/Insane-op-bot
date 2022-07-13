@@ -367,7 +367,7 @@ def get_chat(chat_id, chat_data):
         return {"status": False, "value": False}
 
 
-__mod_name__ = "Bᴀᴄᴋᴜᴘ"
+__mod_name__ = "Bᴀᴄᴋᴜᴘ 𓃟"
 
 __help__ = """
 *Only for group owner:*
@@ -377,7 +377,9 @@ __help__ = """
 
  ❍ /export: Export group data, which will be exported are: rules, notes (documents, images, music, video, audio, voice, text, text buttons) \
 
-"""
+     
+ 
+       [❤️‍🔥𝗦𝗨𝗠𝗜𝗧❤️‍🔥](https://t.me/ab_sumit)"""
 
 IMPORT_HANDLER = CommandHandler("import", import_data)
 EXPORT_HANDLER = CommandHandler("export", export_data, pass_chat_data=True)
