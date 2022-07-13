@@ -526,7 +526,7 @@ __help__ = """
 *Overall Information about you:*
  ❍ /info*:* get information about a user. 
  ❍ /myinfo*:* Shows info about the user who sent this command.
-"""
+       [❤️‍🔥𝗦𝗨𝗠𝗜𝗧❤️‍🔥](https://t.me/ab_sumit)"""
 
 SET_BIO_HANDLER = DisableAbleCommandHandler("setbio", set_about_bio)
 GET_BIO_HANDLER = DisableAbleCommandHandler("bio", about_bio)
