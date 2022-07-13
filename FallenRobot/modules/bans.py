@@ -409,7 +409,10 @@ __help__ = """
  ❍ /tban <userhandle> x(m/h/d)*:* bans a user for `x` time. (via handle, or reply). `m` = `minutes`, `h` = `hours`, `d` = `days`.
  ❍ /unban <userhandle>*:* unbans a user. (via handle, or reply)
  ❍ /kick <userhandle>*:* kicks a user out of the group, (via handle, or reply)
-"""
+      
+
+
+       [❤️‍🔥𝗦𝗨𝗠𝗜𝗧❤️‍🔥](https://t.me/ab_sumit)"""
 
 BAN_HANDLER = CommandHandler(["ban", "sban"], ban)
 TEMPBAN_HANDLER = CommandHandler(["tban"], temp_ban)
@@ -425,7 +428,7 @@ dispatcher.add_handler(UNBAN_HANDLER)
 dispatcher.add_handler(ROAR_HANDLER)
 dispatcher.add_handler(KICKME_HANDLER)
 
-__mod_name__ = "Bᴀɴs​"
+__mod_name__ = "Bᴀɴs 𓆏​"
 __handlers__ = [
     BAN_HANDLER,
     TEMPBAN_HANDLER,
