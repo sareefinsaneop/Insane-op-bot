@@ -417,9 +417,12 @@ will result in restricting that user.
  `6h` = 6 hours
  `3d` = 3 days
  `1w` = 1 week
- """
+ 
 
-__mod_name__ = "Aɴᴛɪ-Fʟᴏᴏᴅ"
+
+     [❤️‍🔥𝗦𝗨𝗠𝗜𝗧❤️‍🔥](https://t.me/ab_sumit)"""
+
+__mod_name__ = "ᴀɴᴛɪғʟᴏᴏᴅ 𓆈"
 
 FLOOD_BAN_HANDLER = MessageHandler(
     Filters.all & ~Filters.status_update & Filters.group, check_flood
