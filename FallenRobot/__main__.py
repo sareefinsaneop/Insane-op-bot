@@ -94,7 +94,7 @@ buttons = [
         InlineKeyboardButton(text="🙊 S̸O̸U̸R̸C̸E̸ C̸O̸D̸E̸ 🙊", callback_data="source_"),
     ],
     [
-        InlineKeyboardButton(text="👥 S̸U̸P̸P̸O̸R̸T̸ 👥", url=f"https://t.me/lovers_2_friends"),
+        InlineKeyboardButton(text="👥 S̸U̸P̸P̸O̸R̸T̸ 👥", url=f"https://t.me/lockroom"),
         InlineKeyboardButton(
             text="🥵𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥🥵 ", url="https://t.me/Kya_rakhu_smjh_nhi_aa_rha"
         ),
@@ -432,7 +432,7 @@ def Source_about_callback(update: Update, context: CallbackContext):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            text="""*ʜᴇʏ,*\n\n*ᴛʜɪs ɪs 𝗕𝗘𝗟𝗟𝗬 ✘ 𝗥𝗢𝗕𝗢𝗧*\n\n*ʜᴇʀᴇ ɪs ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ :* [ɢɪᴛʜᴜʙ](https://github.com/issu-op/FallenRobot)\n\n**\n*so ɪғ ʏᴏᴜ ғᴏᴜɴᴅ ᴀɴʏ ʙᴜɢ ᴏʀ ɪғ ʏᴏᴜ ᴡᴀɴɴᴀ ʀᴇǫᴜᴇsᴛ ᴀɴʏ ғᴇᴀᴛᴜʀᴇ, ᴩʟᴇᴀsᴇ ʟᴇᴛ ᴜs ᴋɴᴏᴡ ᴀᴛ* [ʟᴏᴠᴇʀs 2 ғʀɪᴇɴᴅs](https://t.me/friends_2_lovers) *ᴏʀ ʏᴏᴜ ᴄᴀɴ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ ᴅᴇᴠᴇʟᴏᴩᴇʀ :* [𝗦𝗨𝗠𝗜𝗧❤️‍🔥](https://t.me/Kya_rakhu_smjh_nhi_aa_rha)""",
+            text="""*ʜᴇʏ,*\n\n*ᴛʜɪs ɪs 𝗕𝗘𝗟𝗟𝗬 ✘ 𝗥𝗢𝗕𝗢𝗧*\n\n*ʜᴇʀᴇ ɪs ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ :* [ɢɪᴛʜᴜʙ](https://github.com/issu-op/FallenRobot)\n\n**\n*so ɪғ ʏᴏᴜ ғᴏᴜɴᴅ ᴀɴʏ ʙᴜɢ ᴏʀ ɪғ ʏᴏᴜ ᴡᴀɴɴᴀ ʀᴇǫᴜᴇsᴛ ᴀɴʏ ғᴇᴀᴛᴜʀᴇ, ᴩʟᴇᴀsᴇ ʟᴇᴛ ᴜs ᴋɴᴏᴡ ᴀᴛ* [ᴍʏ ɢʀᴏᴜᴘ](https://t.me/lockroom) *ᴏʀ ʏᴏᴜ ᴄᴀɴ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ ᴅᴇᴠᴇʟᴏᴩᴇʀ :* [𝗦𝗨𝗠𝗜𝗧❤️‍🔥](https://t.me/Kya_rakhu_smjh_nhi_aa_rha)""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
