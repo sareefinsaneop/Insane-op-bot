@@ -52,7 +52,7 @@ async def wall(client, message):
 ✨ **ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ :** [{dispatcher.bot.first_name}](https://t.me/{dispatcher.bot.username})
 🥀 **ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ :** {message.from_user.mention}
 ❄ **ᴅᴏᴡɴʟᴏᴀᴅ :** `{murl}`
-"""
+      [❤️‍🔥𝗦𝗨𝗠𝗜𝗧❤️‍🔥](https://t.me/ab_sumit)"""
         await m.delete()
         await client.send_photo(
             message.chat.id,
