@@ -209,7 +209,11 @@ That's what approvals are for - approve of trustworthy users to allow them to se
 ❍ /unapprove*:* Unapprove of a user. They will now be subject to locks, blacklists, and antiflood again.
 ❍ /approved*:* List all approved users.
 ❍ /unapproveall*:* Unapprove *ALL* users in a chat. This cannot be undone.
-"""
+
+
+
+
+       [❤️‍🔥𝗦𝗨𝗠𝗜𝗧❤️‍🔥](https://t.me/ab_sumit)"""
 
 APPROVE = DisableAbleCommandHandler("approve", approve)
 DISAPPROVE = DisableAbleCommandHandler("unapprove", disapprove)
@@ -225,6 +229,6 @@ dispatcher.add_handler(APPROVAL)
 dispatcher.add_handler(UNAPPROVEALL)
 dispatcher.add_handler(UNAPPROVEALL_BTN)
 
-__mod_name__ = "Aᴘᴘʀᴏᴠᴇ"
+__mod_name__ = "Aᴘᴘʀᴏᴠᴇ ♕︎"
 __command_list__ = ["approve", "unapprove", "approved", "approval"]
 __handlers__ = [APPROVE, DISAPPROVE, APPROVED, APPROVAL]
