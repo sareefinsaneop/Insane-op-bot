@@ -540,9 +540,9 @@ A button can be added to a note by using standard markdown link syntax - the lin
  ❍ /removeallnotes*:* removes all notes from the group
  *Note:* Note names are case-insensitive, and they are automatically converted to lowercase before getting saved.
 
-"""
+      [❤️‍🔥𝗦𝗨𝗠𝗜𝗧❤️‍🔥](https://t.me/ab_sumit)"""
 
-__mod_name__ = "Nᴏᴛᴇs"
+__mod_name__ = "Nᴏᴛᴇs  𓂻"
 
 GET_HANDLER = CommandHandler("get", cmd_get)
 HASH_GET_HANDLER = MessageHandler(Filters.regex(r"^#[^\s]+"), hash_get)
