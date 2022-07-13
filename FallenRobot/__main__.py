@@ -1,4 +1,4 @@
-import lib # sed
+import importlib # sed
 import time
 import re
 from sys import argv
