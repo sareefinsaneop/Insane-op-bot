@@ -7,22 +7,22 @@ from pyrogram import filters
 from FallenRobot import pbot as client, dispatcher, OWNER_USERNAME
 
 
-ANON = "https://telegra.ph/file/7bd111132fce009e4605e.jpg"
+ANON = "https://te.legra.ph/file/f7147014358327063bc7b.jpg"
 
 
 @client.on_message(filters.command(["repo", "source"]))
 async def repo(client, message):
     await message.reply_photo(
         photo=ANON,
-        caption=f"""**ʜᴇʏ​ {message.from_user.mention()},\n\nɪ ᴀᴍ [{dispatcher.bot.first_name}](t.me/{dispatcher.bot.username})**
+        caption=f"""**ʜᴇʏ ʙᴀʙʏ ​ {message.from_user.mention()},\n\nɪ ᴀᴍ [{dispatcher.bot.first_name}](t.me/{dispatcher.bot.username})**
 
-**» ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ :** [𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](tg://user?id=1356469075)
+**» ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ :** [sᴜᴍɪᴛ](tg://user?id=5532173077)
 **» ᴩʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{y()}`
 **» ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ :** `{o}` 
 **» ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{s}` 
 **» ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ :** `{z}`
 
-**ꜰᴀʟʟᴇɴ ✘ ʀᴏʙᴏᴛ sᴏᴜʀᴄᴇ ɪs ɴᴏᴡ ᴩᴜʙʟɪᴄ ᴀɴᴅ ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴍᴀᴋᴇ ʏᴏᴜʀ ᴏᴡɴ ʙᴏᴛ.**
+**ʙᴇʟʟʏ ✘ ʀᴏʙᴏᴛ sᴏᴜʀᴄᴇ ɪs ɴᴏᴡ ᴩᴜʙʟɪᴄ ᴀɴᴅ ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴍᴀᴋᴇ ʏᴏᴜʀ ᴏᴡɴ ʙᴏᴛ.**
 """,
         reply_markup=InlineKeyboardMarkup(
             [
@@ -32,7 +32,7 @@ async def repo(client, message):
                     ),
                     InlineKeyboardButton(
                         "• sᴏᴜʀᴄᴇ •",
-                        url="https://github.com/AnonymousR1025/FallenRobot",
+                        url="https://github.com/issu-op/FallenRobot",
                     ),
                 ]
             ]
