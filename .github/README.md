@@ -57,9 +57,9 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [𝑰𝑵𝑺𝑨�
     ─「 ᴄʀᴇᴅɪᴛs 」─
 </h3>
 
-- <b>[sᴜᴍɪᴛ](https://github.com/issu-op)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/issu-op/FallenRobot) </b>
+- <b>[ɪɴsᴀɴᴇ](https://github.com/Sareefinsaneop)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/issu-op/FallenRobot) </b>
 - <b>[ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/Anonymous)
 - 
-<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/AnonymousR1025/FallenRobot/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ʙᴇʟʟʏ ✘ ʀᴏʙᴏᴛ ᴜsᴇғᴜʟ & ᴩᴏᴡᴇʀғᴜʟ 🖤 </b>
+<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/AnonymousR1025/FallenRobot/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ 𝐼𝑁𝑆𝐴𝑁𝐸 𝐗 𝑅𝑂𝐵𝑂𝑇 ᴜsᴇғᴜʟ & ᴩᴏᴡᴇʀғᴜʟ 🖤 </b>
 
 ━━━━━━━━━━━━━━━━━━━━
