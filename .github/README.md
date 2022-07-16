@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/fd6462fefbb3470e0a328.mp4">
+  <img src="https://te.legra.ph/file/7f19efa7252d4a6f5c765.jpg">
 </p>
 
 _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ʙᴇʟʟʏ ✘ ʀᴏʙᴏᴛ](https://t.me/belly_robot)**_
@@ -59,7 +59,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ʙᴇʟʟʏ ✘ ʀ�
 
 - <b>[sᴜᴍɪᴛ](https://github.com/issu-op)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/issu-op/FallenRobot) </b>
 - <b>[ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/Anonymous)
- 
+- 
 <b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/AnonymousR1025/FallenRobot/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ʙᴇʟʟʏ ✘ ʀᴏʙᴏᴛ ᴜsᴇғᴜʟ & ᴩᴏᴡᴇʀғᴜʟ 🖤 </b>
 
 ━━━━━━━━━━━━━━━━━━━━
