@@ -16,7 +16,7 @@ async def repo(client, message):
         photo=ANON,
         caption=f"""**ʜᴇʏ ʙᴀʙʏ ​ {message.from_user.mention()},\n\nɪ ᴀᴍ [{dispatcher.bot.first_name}](t.me/{dispatcher.bot.username})**
 
-**» ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ :** [sᴜᴍɪᴛ](tg://user?id=5532173077)
+**» ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ :** [Insane](tg://user?id=5011211901)
 **» ᴩʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{y()}`
 **» ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ :** `{o}` 
 **» ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{s}` 
@@ -32,7 +32,7 @@ async def repo(client, message):
                     ),
                     InlineKeyboardButton(
                         "• sᴏᴜʀᴄᴇ •",
-                        url="https://github.com/issu-op/FallenRobot",
+                        url="https://github.com/sareefinsaneop/Insane-op-bot",
                     ),
                 ]
             ]
