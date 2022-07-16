@@ -1,14 +1,14 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「 ʙᴇʟʟʏ ✘ ʀᴏʙᴏᴛ 」──
+    ──「 𝑰𝑵𝑺𝑨𝑵𝑬 𝐗 𝑹𝑶𝑩𝑶𝑻 」──
 </h2>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/7f19efa7252d4a6f5c765.jpg">
+  <img src="https://te.legra.ph/file/c546216e19b29cfd3becb.jpg">
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ʙᴇʟʟʏ ✘ ʀᴏʙᴏᴛ](https://t.me/belly_robot)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [𝑰𝑵𝑺𝑨𝑵𝑬 𝐗 𝑹𝑶𝑩𝑶𝑻](https://t.me/about_insaneop)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
@@ -25,7 +25,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ʙᴇʟʟʏ ✘ ʀ�
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-  <img src="https://te.legra.ph/file/f7147014358327063bc7b.jpg">
+  <img src="https://te.legra.ph/file/872e57b181ec700c03920.jpg">
 </p>
 
 <p align="center">
@@ -45,10 +45,10 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ʙᴇʟʟʏ ✘ ʀ�
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/lockroom><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/ABOUT_INSANEOP><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/Kya_rakhu_smjh_nhi_aa_rha"><img src="https://img.shields.io/badge/%20Sumit-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/SAREEFO_KI_DUNIYA"><img src="https://img.shields.io/badge/%20INSANE-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
