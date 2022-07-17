@@ -226,7 +226,7 @@ __help__ = """
  ❍ /ignoreblue <word>*:* prevent auto cleaning of the command
  ❍ /unignoreblue <word>*:* remove prevent auto cleaning of the command
  ❍ /listblue*:* list currently whitelisted commands
-      [❤️‍🔥𝗦𝗨𝗠𝗜𝗧❤️‍🔥](https://t.me/ab_sumit)"""
+      [❤️‍🔥𝐈𝐍𝐒𝐀𝐍𝐄❤️‍🔥](https://t.me/about_insaneop)"""
 
 SET_CLEAN_BLUE_TEXT_HANDLER = CommandHandler("cleanblue", set_blue_text_must_click)
 ADD_CLEAN_BLUE_TEXT_HANDLER = CommandHandler("ignoreblue", add_bluetext_ignore)
