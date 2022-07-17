@@ -412,7 +412,7 @@ __help__ = """
       
 
 
-       [❤️‍🔥𝗦𝗨𝗠𝗜𝗧❤️‍🔥](https://t.me/ab_sumit)"""
+       [❤️‍🔥𝐈𝐍𝐒𝐀𝐍𝐄❤️‍🔥](https://t.me/ABOUT_INSANEOP)"""
 
 BAN_HANDLER = CommandHandler(["ban", "sban"], ban)
 TEMPBAN_HANDLER = CommandHandler(["tban"], temp_ban)
