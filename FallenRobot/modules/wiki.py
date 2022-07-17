@@ -57,5 +57,5 @@ dispatcher.add_handler(WIKI_HANDLER)
 
 __help__ = """
 » /wiki (text) *:* Searchs about the given text on wikipedia.
-  ❤️‍🔥[Ⓢ︎](https://t.me/ab_sumit)"""
+  ❤️‍🔥[Ⓘ︎](https://t.me/about_insaneop)"""
 __mod_name__ = "Wɪᴋɪ🔍​"
