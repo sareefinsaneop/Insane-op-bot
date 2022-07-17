@@ -146,7 +146,7 @@ When marked as AFK, any mentions will be replied to with a message to say you're
 
 
 
-       [❤️‍🔥𝗦𝗨𝗠𝗜𝗧❤️‍🔥](https://t.me/ab_sumit)"""
+       [❤️‍🔥𝐈𝐍𝐒𝐀𝐍𝐄❤️‍🔥](https://t.me/ABOUT_INSANEOP)"""
 
 AFK_HANDLER = DisableAbleCommandHandler("afk", afk)
 AFK_REGEX_HANDLER = DisableAbleMessageHandler(
