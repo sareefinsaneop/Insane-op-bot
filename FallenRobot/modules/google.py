@@ -284,5 +284,5 @@ __help__ = """
  ❍ /app <appname>*:* Searches for an app in Play Store and returns its details.
  ❍ /reverse: Does a reverse image search of the media which it was replied to.
  ❍ Sumit <query>*:* belly answers the query
-  💡Ex: ` sᴜᴍɪᴛ -where is ʏᴏᴜʀ ᴘᴜssʏ?`
-        [❤️‍🔥𝗦𝗨𝗠𝗜𝗧❤️‍🔥](https://t.me/ab_sumit)"""
+  💡Ex: ` ɪɴsᴀɴᴇ -where is ʏᴏᴜʀ ᴘᴜssʏ?`
+        [❤️‍🔥𝐈𝐍𝐒𝐀𝐍𝐄❤️‍🔥](https://t.me/aBOUT_INSANEOP)"""
