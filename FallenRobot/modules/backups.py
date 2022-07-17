@@ -379,7 +379,7 @@ __help__ = """
 
      
  
-       [❤️‍🔥𝗦𝗨𝗠𝗜𝗧❤️‍🔥](https://t.me/ab_sumit)"""
+       [❤️‍🔥𝐈𝐍𝐒𝐀𝐍𝐄❤️‍🔥](https://t.me/about_insaneop)"""
 
 IMPORT_HANDLER = CommandHandler("import", import_data)
 EXPORT_HANDLER = CommandHandler("export", export_data, pass_chat_data=True)
