@@ -70,4 +70,4 @@ __help__ = """
  Writes the given text on white page with a pen 🖊
 
 ❍ /write <text> *:* Writes the given text.
-     ❤️‍🔥[Ⓢ︎](https://t.me/ab_sumit)"""
+     ❤️‍🔥[🅸︎](https://t.me/about_insaneop)"""
